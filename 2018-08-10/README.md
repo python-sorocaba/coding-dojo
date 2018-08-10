@@ -13,7 +13,7 @@ Neste problema, você deve ler uma palavra composta somente por letras [a-zA-Z].
 
 Você precisa definir se cada palavra em um conjunto de palavras é prima ou não. Para ela ser prima, a soma dos valores de suas letras deve ser um número primo.
 
-Exercício extraído e adaptado de: http://dojopuzzles.com/problemas/exibe/palavras-primas/
+Exercício extraído e adaptado de: [http://dojopuzzles.com/problemas/exibe/palavras-primas/](http://dojopuzzles.com/problemas/exibe/palavras-primas/)
 
 # Reconhecendo um número primo
 
@@ -35,4 +35,10 @@ Este exercício pode ser separado facilmente em dois dojos:
 - Segundo Dojo: Identificar se uma palavra é prima ou não (que demandará pouquíssimo tempo).
 
 ... porém tudo depende da velocidade e tempo em que o dojo for realizado.
+
+# Referências
+
+- [Vídeo - NÚMEROS PRIMOS - Com saber se um Número é primo ou não](https://www.youtube.com/watch?v=TjAx7pHgxpo)
+- [DojoPuzzles.com](http://dojopuzzles.com/problemas/exibe/palavras-primas/)
+- [Números primos](https://www.somatematica.com.br/fundam/primos.php)
 
