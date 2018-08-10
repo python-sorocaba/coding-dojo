@@ -26,6 +26,12 @@ A cada troca entre piloto/co-piloto uma nova pessoa do grupo assume a posição 
 ## Dicas para um bom Coding Dojo
 
 - O enunciado do problema deve estar escrito da forma mais clara possível para facilitar a comunicação com o grupo que irá participar do dojo;
+- O problema/enunciado tem que tem um bom "flow";
+    - [Flow - Estado de Fluxo - Mihaly Csikszentmihalyi -TED](https://www.youtube.com/watch?v=BAljbVf-HXA);
+    - [Python e Flow](https://github.com/dunossauro/slides/blob/master/Python%20e%20Flow.pdf).
+   
+![flow](./images/flow.png)
+
 - É importante ter um slot de tempo para começar e terminar o dojo, e sua resolução não é tão importante para o processo mas sim o aprendizado adquirido durante a dinâmica;
 - É legal que um mesmo código (já começado) não volte para o próxima sessão de Dojo, pois isso atrapalha a entrada de pessoas novas nas sessões. Exemplo (que aprendemos em dojos passados): Uma pessoa deixou de ir no dia 10/08 e foi no dia 15/08, quando ela chegar lá no dia 15/08 ela não vai entender nada sobre o código que está sendo feito.
 
