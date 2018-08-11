@@ -1,0 +1,10 @@
+- @laurenmariaferreira
+- @edsonyamamoto
+- @cacarrara
+- @gabrielDpadua
+- @cauethenorio
+- @thiagolopes
+- @pedro-walter
+- @rafaelhenrique
+- maicon mracina
+- felipe mracina
