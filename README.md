@@ -33,5 +33,5 @@ A cada troca entre piloto/co-piloto uma nova pessoa do grupo assume a posição 
 ![flow](./images/flow.png)
 
 - É importante ter um slot de tempo para começar e terminar o dojo, e sua resolução não é tão importante para o processo mas sim o aprendizado adquirido durante a dinâmica;
-- É legal que um mesmo código (já começado) não volte para o próxima sessão de Dojo, pois isso atrapalha a entrada de pessoas novas nas sessões. Exemplo (que aprendemos em dojos passados): Uma pessoa deixou de ir no dia 10/08 e foi no dia 15/08, quando ela chegar lá no dia 15/08 ela não vai entender nada sobre o código que está sendo feito.
-
+- É legal que um mesmo código (já começado) não volte para o próxima sessão de Dojo, pois isso atrapalha a entrada de pessoas novas nas sessões. Exemplo (que aprendemos em dojos passados): Uma pessoa deixou de ir no dia 10/08 e foi no dia 15/08, quando ela chegar lá no dia 15/08 ela não vai entender nada sobre o código que está sendo feito;
+- Adicionar casos de teste (principalmente em problemas mais complexos) e seus resultados no enunciado ajuda a validar se o funcionamento do está de acordo com o esperado e economiza tempo durante o Dojo.
