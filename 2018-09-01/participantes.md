@@ -1,1 +1,10 @@
 - @rafaelhenrique
+- @cacarrara
+- @ricaportela
+- @juliomsilva
+- @julioh1203
+- @xemyst
+- @mendes11
+- @thiagolopes
+- @cauethenorio
+- carlos saraiva
